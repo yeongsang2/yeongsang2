@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ![yeongsang2's github stats](https://github-readme-stats.vercel.app/api?username=yeongsang2&show_icons=true)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dudtkd1221)](https://solved.ac/dudtkd1221)
+
+
