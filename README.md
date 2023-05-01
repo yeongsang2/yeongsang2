@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![yeongsang2's github stats](https://github-readme-stats.vercel.app/api?username=yeongsang2&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudtkd1221)](https://solved.ac/dudtkd1221/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudtkd1221)](https://solved.ac/dudtkd1221/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongsang2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
