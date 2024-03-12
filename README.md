@@ -1,21 +1,29 @@
-### Hi there 👋
+# Hello I'm yeong sang👋
 
-<!--
-**yeongsang2/yeongsang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in
 
-Here are some ideas to get you started:
+<!--![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,cs,unity) -->
+![Java](https://img.shields.io/badge/Java-red?style=flat-for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-for-the-badge&logo=python&logoColor=white)
+<!-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-for-the-badge&logo=c-sharp&logoColor=white) -->
+<!-- ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-for-the-badge&logo=unity&logoColor=white) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
-![yeongsang2's github stats](https://github-readme-stats.vercel.app/api?username=yeongsang2&show_icons=true)
+Work Experience
+- <b>ETRI</b> - Research Intern <i>(2023.01 ~ 2023.02)</i>
+- <b>CBNU AI LAB</b> - Research Intern <i>(2023.06 ~ 2023.11)</i>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudtkd1221)](https://solved.ac/dudtkd1221/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongsang2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+
+<details>
+  <summary>My stats:</summary>
+  
+ ![yeongsang2's github stats](https://github-readme-stats.vercel.app/api?username=yeongsang2&show_icons=true)
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudtkd1221)](https://solved.ac/dudtkd1221/)
+
+</details>
 
