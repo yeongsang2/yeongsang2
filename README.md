@@ -14,7 +14,7 @@ I'm interested in
 Experience
 - <b>ETRI</b> - Research Intern <i>(2023.01 ~ 2023.02)</i>
 - <b>CBNU AI LAB</b> - Research Intern <i>(2023.06 ~ 2023.11)</i>
-- <b>SW Maestro 15th</b> <i>(2024.04 ~ ing)</i>
+- <b>SW Maestro 15th</b> <i>(2024.04 ~ 2024.12)</i>
 <br>
 
 
